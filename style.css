@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#222;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    text-align:center;
+}
+
+#clock{
+    font-size:60px;
+    margin:20px;
+    color:cyan;
+}
+
+#countdown{
+    font-size:25px;
+    color:yellow;
+}
